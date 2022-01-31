@@ -1,5 +1,5 @@
 *{font-family:Poppins,sans-serif;margin:0;padding:0;box-sizing:border-box}
-html{background:linear-gradient(60deg,rgba(6,199,51,.70),rgba(255,255,255,0));background-repeat:no-repeat}
+html{background:linear-gradient(300deg,rgba(6,199,51,.90),rgba(255,255,255,0));background-repeat:no-repeat}
 head{display:flex;flex-direction:row}
 .head i{margin-left:10px;margin-top:10px;float:left;font-size:large;color:#06c733}
 .head h2{font-size:1.5rem;font-weight:300;font-weight:700;float:left;margin-left:10px;margin-top:5px;margin-right:25px}
